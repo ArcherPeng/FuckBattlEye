@@ -6,13 +6,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FuckBE
+namespace FuckBattlEye
 {
     class Program
     {
         static void Main(string[] args)
         {
-            FuckBE.Run(@"cheat.exe", "H1Z1");
+            FuckBattlEye.Run(@"cheat.exe", "H1Z1");
         }
     }
 }

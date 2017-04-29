@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FuckBE
+namespace FuckBattlEye
 {
-    static unsafe class FuckBE
+    static unsafe class FuckBattlEye
     {
         public static void Run(string szCheatPath, string szProcessName)
         {
